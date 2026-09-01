@@ -1,3 +1,12 @@
 # senior-project-practice
 
-project information: saving the world, one step at a time
+# Student Development Profile
+Name: Joseph Neisen
+
+Technology Interest: Printers
+
+Senior Project Skill Goal: Teamwork
+
+Also include the following development workflow:
+
+Branch → Code → Commit → Push → Pull Request → Review → Merge
